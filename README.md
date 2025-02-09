@@ -45,18 +45,10 @@ npm start
 - **Testing:** Use `npm test` to run all unit tests.  
 - **Production Build:** Compile the app for production with `npm run build`.  
 
-## 🤝 Contributing  
 
-We welcome contributions! 🎉 If you'd like to contribute, please read our [CONTRIBUTING.md](CONTRIBUTING.md) guide before submitting a pull request.  
 
-## 📜 License  
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
 
-## 🌍 Connect With Us  
 
-🔗 **Website:** [www.evchargechain.io](http://www.evchargechain.io)  
-💬 **Discord:** Join the EVChargeChain Community  
-🐦 **Twitter:** [@EVChargeChain](https://twitter.com/EVChargeChain)  
 
 🚀 Let's build a **sustainable and decentralized** future for EV charging together! ⚡🔋💚  
